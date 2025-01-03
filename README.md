@@ -6,6 +6,7 @@ It performs various data manipulations and visualizations to extract insights.
 📂 Project Overview
 
 The script performs the following operations:
+
 	1.	Reads the Netflix movie dataset (netflix_data.csv) into a pandas DataFrame.
 	2.	Filters movies released between 1990 and 1999.
 	3.	Saves the filtered dataset into movies_1990s.csv for further analysis.
@@ -20,6 +21,7 @@ The script performs the following operations:
  📊 Visualizations
 
 The script generates three main visualizations:
+
 	1.	Line Plot 📈 → Number of movies released each year in the 1990s.
 	2.	Bar Chart 📊 → Number of movies per year (same data as the line plot, different representation).
 	3.	Histogram 📉 → Distribution of movie durations (how long movies typically were in this decade).
