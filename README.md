@@ -52,6 +52,11 @@ python netflix_analysis.py
 	•	Short action movies saved as short_action_movies.csv
 	•	Visualizations displayed
 
+## 📈 Results
+Below are some visualizations from the analysis:
+
+### Movies Released Per Year (1990s) and Distribution of Movie Durations
+![Movies Per Year](Results.png)
 
  📌 Key Findings
 	•	The most frequent movie duration in the 1990s was 94 minutes.
